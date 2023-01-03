@@ -17,5 +17,10 @@ code {
 }
 
 ul {
-  padding-left: 20px;
+  padding: 0px;
+  
+}
+
+li {
+  list-style: none;
 }

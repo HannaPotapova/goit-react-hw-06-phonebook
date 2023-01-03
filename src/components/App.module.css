@@ -44,6 +44,7 @@
     color: white;
     box-shadow: 2px 2px 4px gray;
 }
+
 .statistic {
     text-align: center;
     margin-top: 50px;
@@ -68,8 +69,4 @@
     flex-direction: column;
     gap: 15px;
     width: 250px;
-}
-
-.item {
-    text-align: left;
 }
